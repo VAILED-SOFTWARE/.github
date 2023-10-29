@@ -1,7 +1,5 @@
 # Welcome to VAILED SOFTWARE
 
-![VAILED Logo](https://raw.githubusercontent.com/VAILED-SOFTWARE/.github/main/img/VAILEDLogo.png)
-
 VAILED SOFTWARE is a group of enthusiasts dedicated to the art of software development and game development. Our focus is on creativity, innovation and excellent code craftsmanship.
 
 ## About Us
