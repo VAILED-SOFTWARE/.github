@@ -23,4 +23,4 @@ Would you like to become part of our team or participate in one of our projects?
 
 We look forward to working with you and enriching the world of software and game development.
 
-![VAILED Logo](https://raw.githubusercontent.com/VAILED-SOFTWARE/.github/main/img/VAILEDLogo.png)
+<img src="https://raw.githubusercontent.com/VAILED-SOFTWARE/.github/main/img/VAILEDLogo.png" width="300" height="100">
